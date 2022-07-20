@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: HEAD
+    m_Weight: 1
+  - m_Path: ROOT
+    m_Weight: 1
+  - m_Path: ROOT/TT
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT L Thigh
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT L Thigh/TT L Calf
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT L Thigh/TT L Calf/TT L Foot
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT L Thigh/TT L Calf/TT L Foot/TT L Toe0
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT R Thigh
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT R Thigh/TT R Calf
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT R Thigh/TT R Calf/TT R Foot
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT R Thigh/TT R Calf/TT R Foot/TT R Toe0
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger0
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger0/TT L Finger01
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger0/TT L Finger01/TT L Finger02
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger1
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger1/TT L Finger11
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger1/TT L Finger11/TT L Finger12
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger2
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger2/TT L Finger21
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger2/TT L Finger21/TT L Finger22
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger3
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger3/TT L Finger31
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger3/TT L Finger31/TT L Finger32
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger4
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger4/TT L Finger41
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT L Clavicle/TT L UpperArm/TT
+      L Forearm/TT L Hand/TT L Finger4/TT L Finger41/TT L Finger42
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT Neck
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT Neck/TT Head
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger0
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger0/TT R Finger01
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger0/TT R Finger01/TT R Finger02
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger1
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger1/TT R Finger11
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger1/TT R Finger11/TT R Finger12
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger2
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger2/TT R Finger21
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger2/TT R Finger21/TT R Finger22
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger3
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger3/TT R Finger31
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger3/TT R Finger31/TT R Finger32
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger4
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger4/TT R Finger41
+    m_Weight: 1
+  - m_Path: ROOT/TT/TT Pelvis/TT Spine/TT Spine1/TT Spine2/TT R Clavicle/TT R UpperArm/TT
+      R Forearm/TT R Hand/TT R Finger4/TT R Finger41/TT R Finger42
+    m_Weight: 1
+  - m_Path: TTBFeetB
+    m_Weight: 1
+  - m_Path: TTBHoodA
+    m_Weight: 1
+  - m_Path: TTBLegsLD
+    m_Weight: 1
+  - m_Path: TTBSweater
+    m_Weight: 1
